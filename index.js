@@ -19,7 +19,14 @@ const digitBinarycount = (n, b) => {
         }
     }
 
-    console.log(count)
+    return count
 }
 
-digitBinarycount(11, 1);
+console.log(`The results for 20 and 0 are ${digitBinarycount(20, 0)}`);
+
+console.log(`The results for 15 and 1 are ${digitBinarycount(15, 1)}`);
+console.log(`The results for 10 and 0 are ${digitBinarycount(10, 0)}`);
+
+
+
+
