@@ -1,8 +1,10 @@
-const expect = chai.expect,
+const test1 = chai.expect,
     const n1 = 20;
     const b1 = 0;
+const test2 = chai.expect,
     const n2 = 15;
     const b2 = 1;
+const test3 = chai.expect,
     const n3 = 10;
     const n3 = 0;
 
