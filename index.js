@@ -3,7 +3,6 @@
 // Convert the n into binary representation (you can use a built in method)
 // count the b digit in the binary number 
 
-const { count } = require("console");
 
 // printe the result on the console.  
 const digitBinarycount = (n, b) => {
